@@ -1,11 +1,11 @@
 {
-  "name": "Miblog",
-  "description": "este es mi blog",
-  "icons": {"128": "/assets/images/icon128.png"},
+  "name": "Mi Blog",
+  "description": "Este es el blog de Eliot",
+  "icons": {"128": "http://www.elementalenglish.com/wp-content/uploads/2013/05/Headphones-128x128.png"},
   "version": "0.1",
   "launch_path": "/index.html",
   "developer": {
-    "name": "Leonard",
+    "name": "Eliot",
     "url": "http://github.com"
   }
 }
